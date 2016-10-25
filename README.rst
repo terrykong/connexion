@@ -29,7 +29,6 @@ Connexion
    :target: https://github.com/zalando/connexion/blob/master/LICENSE
    :alt: License
 
-Connexion is a framework on top of Flask_ that automagically handles
 HTTP requests based on `OpenAPI 2.0 Specification`_ (formerly known as
 Swagger Spec) of your API described in `YAML format`_. Connexion
 allows you to write a Swagger specification, then maps the
